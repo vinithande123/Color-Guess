@@ -22,6 +22,9 @@ body{
 	display: inline-block;
 	width:20%;
 }
+h4{
+	color:white;
+}
 h3{
 	text-align: center;
 	word-spacing: 100px;
